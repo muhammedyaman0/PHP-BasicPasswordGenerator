@@ -6,7 +6,7 @@
  
 <body>
 
-	<form action="randomsifre.php" method="post">
+	<form action="passwordgenerator.php" method="post">
 		Şifre Uzunluğu Seçin <br>
 		<input type="text" name="uzunluk"><br><br>
 		<input type="submit" name="buton" value="ŞİFRE OLUŞTUR!">
